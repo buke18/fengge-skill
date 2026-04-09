@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😎😎峰哥 · 人生困惑时的思维顾问🎶
+# 😎😎峰哥skill · 人生困惑时的思维顾问🎶
 
 > *「人在低谷的时候觉得什么都没意思，这是情绪说的话，不是事实。🤷‍♂️」*
 <img width="660" height="819" alt="418d88e12e32344f47547a7d334b8168" src="https://github.com/user-attachments/assets/763a3ffc-aa2f-418e-807a-4f7287dcc5b8" />
